@@ -123,4 +123,4 @@ http://maps.secondlife.com/secondlife/Orientation%20Island%20Public/98/169/33.
 
 ## Support or Contact
 
-Having trouble? Contact [SLTravelers](https://my.secondlife.com/sltravelers) or a Moderator in-world and we’ll help you sort it out.
+To add your Service Provider Name to the Flight Announcement Generator contact [SLTravelers](https://my.secondlife.com/sltravelers) or a Group Moderator in-world and we’ll sort it out.
