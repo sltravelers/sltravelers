@@ -1,5 +1,5 @@
 ## About Second Life Travelers Group
-Several established Second Life airlines have joined to create a Group called [Second Life Travelers] (https://href.li/?http://world.secondlife.com/group/ec1d65c1-5f99-f209-f114-32b86b42e391). It’s goal is to share travel opportunities with people in Second Life.
+Several established Second Life airlines have joined to create a Group called [Second Life Travelers](https://world.secondlife.com/group/ec1d65c1-5f99-f209-f114-32b86b42e391). It’s goal is to share travel opportunities with people in Second Life.
 
 This Group has simple, but strict regulations and is moderated by people from every founder airline to support a fair interaction between members.
 
@@ -61,11 +61,9 @@ This is a free charter travel service, but tips are appreciated. Passengers are 
 <br><br><br>
 
 
-## Group Regulations _Last Updated on April 2021._
+## Group Regulations _(Last Updated on April 2021)_
 
-1. A “Travel Provider” tag to announce events in Group Chat is required and delivered upon request and moderators approval.
-
-Requirements to get a tag are: a). SL Account must be at least 6 months old. b). If part of an Organization, applicants must be referred by the owner(s) of the Organization to certify they have completed training and have been active for at least one month.
+1. A “Travel Provider” tag to announce events in Group Chat is required and delivered upon request and moderators approval. Requirements to get a tag are: a). SL Account must be at least 6 months old. b). If part of an Organization, applicants must be referred by the owner(s) of the Organization to certify they have completed training and have been active for at least one month.
 
 2. Chit-chat is closed. Group chat is open exclusively to announce events.
 
@@ -73,46 +71,43 @@ Requirements to get a tag are: a). SL Account must be at least 6 months old. b).
 
 4. Announcements shall not be used as a marketing technique. Mottos, group links, external links and ASCII typography are not allowed.
 
-5. Timing between posts from different Users or Organizations is 0 minutes. Timing between posts from a same User or Organization is restricted to 15 minutes (post history with time stamps can be read at http://sltravelers.tumblr.com).
+5. Timing between posts from different Users or Organizations is 0 minutes. Timing between posts from a same User or Organization is restricted to 15 minutes. Any attempt to disrupt Group interaction with Travelers will result in the airline losing their “Travel Provider” tag.
 
-Any attempt to disrupt Group interaction with Travelers will result in the airline losing their “Travel Provider” tag.
-
-6. Keep announcements generic, simple and concise. Adjectives are not allowed in  events descriptions.
+6. Keep announcements generic, simple and concise. Adjectives are not allowed in  events descriptions. Your motto and ideas about tips and turning off AO’s are up to you at your location.
 
 7. Last or final call announcements are not permitted.
 
-8. Announce your flights only in Group Chat. Do not post flight announcements as a Group Notice under any circumstance.
+8. Announce your flights **only in Group Chat**. Do not post flight announcements as a Group Notice under any circumstance.
 
-Your motto and ideas about tips and turning off AO’s are up to you at your location.
 
 <br><br>
 
 ### Announcement Format:
 
-Travel Provider Name:
-Itinerary: Departure - Destination(s)
-Departure Time:
-Synthesized Event Description: Activities. Vehicle model. Passenger capacity. ETA (Estimated Time of Arrival).
+Travel Provider Name:<br>
+Itinerary: Departure - Destination(s)<br>
+Departure Time:<br>
+Synthesized Event Description: Activities. Vehicle model. Passenger capacity. ETA (Estimated Time of Arrival).<br>
 SLURL:
 
 <br>
 
 ### Examples:
 
-Duck Airlines: Flight 212.
-Second Norway - Grenadier.
-Departure Time: 4:45 PM SLT.
-One-way flight. Aircraft: Boeing 727. Passengers: 6. ETA: 15 min.
+Duck Airlines: Flight 212.<br>
+Second Norway - Grenadier.<br>
+Departure Time: 4:45 PM SLT.<br>
+One-way flight. Aircraft: Boeing 727. Passengers: 6. ETA: 15 min.<br>
 http://maps.secondlife.com/secondlife/Orientation%20Island%20Public/98/169/33.
 
 <br>
 
 ### or
 
-Columbus Ride: No.343.
-Seychelles - Juneau - St Martin.
-10:23 AM SLT.
-Yacht ride and snorkeling tour. Dinner included. Boat: MLCC Oceanic. Passengers: 17. ETA: 60 min.
+Columbus Ride: No.343.<br>
+Seychelles - Juneau - St Martin.<br>
+10:23 AM SLT.<br>
+Yacht ride and snorkeling tour. Dinner included. Boat: MLCC Oceanic. Passengers: 17. ETA: 60 min.<br>
 http://maps.secondlife.com/secondlife/Orientation%20Island%20Public/98/169/33.
 
 
@@ -121,7 +116,7 @@ http://maps.secondlife.com/secondlife/Orientation%20Island%20Public/98/169/33.
 
 ## Join Second Life Travalers
 
-[Click here to join our Group in Second Life] (https://world.secondlife.com/group/ec1d65c1-5f99-f209-f114-32b86b42e391).
+[Click here to join our Group in Second Life](https://world.secondlife.com/group/ec1d65c1-5f99-f209-f114-32b86b42e391).
 
 
 <br><br><br>
