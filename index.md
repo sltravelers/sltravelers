@@ -1,5 +1,5 @@
 ## About Second Life Travelers Group
-Several established Second Life airlines have joined to create a group called Second Life Travelers. It’s goal is to share travel opportunities with people in Second Life.
+Several established Second Life airlines have joined to create a Group called [Second Life Travelers] (https://href.li/?http://world.secondlife.com/group/ec1d65c1-5f99-f209-f114-32b86b42e391). It’s goal is to share travel opportunities with people in Second Life.
 
 This Group has simple, but strict regulations and is moderated by people from every founder airline to support a fair interaction between members.
 
@@ -46,11 +46,6 @@ NOTE: THIS IS A GROUP FOR TRAVEL ANNOUNCEMENTS ONLY - CHAT IS DISABLED.
 
 
 <p style="text-align: left;"> <strong>Click "Submit" to generate an announcement, and copy/paste the following text to SL Travelers Group IM:</strong></p>
-
-
-
-<br>
-
 
 
 <div class="author-box">
@@ -122,48 +117,15 @@ http://maps.secondlife.com/secondlife/Orientation%20Island%20Public/98/169/33.
 
 
 
+<br><br><br>
+
+## Join Second Life Travalers
+
+[Click here to join our Group in Second Life] (https://href.li/?http://world.secondlife.com/group/ec1d65c1-5f99-f209-f114-32b86b42e391).
 
 
 <br><br><br>
 
+## Support or Contact
 
-
-
-
-
-
-You can use the [editor on GitHub](https://github.com/sltravelers/sltravelers/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sltravelers/sltravelers/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble? Contact [SlTravelers](https://my.secondlife.com/sltravelers) or a Moderator in-world and we’ll help you sort it out.
