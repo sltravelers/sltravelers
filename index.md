@@ -107,7 +107,7 @@ http://maps.secondlife.com/secondlife/Orientation%20Island%20Public/98/169/33.
 
 <br>
 
-### OR
+### or
 
 Columbus Ride: No.343.
 Seychelles - Juneau - St Martin.
@@ -121,11 +121,11 @@ http://maps.secondlife.com/secondlife/Orientation%20Island%20Public/98/169/33.
 
 ## Join Second Life Travalers
 
-[Click here to join our Group in Second Life] (https://href.li/?http://world.secondlife.com/group/ec1d65c1-5f99-f209-f114-32b86b42e391).
+[Click here to join our Group in Second Life] (https://world.secondlife.com/group/ec1d65c1-5f99-f209-f114-32b86b42e391).
 
 
 <br><br><br>
 
 ## Support or Contact
 
-Having trouble? Contact [SlTravelers](https://my.secondlife.com/sltravelers) or a Moderator in-world and we’ll help you sort it out.
+Having trouble? Contact [SLTravelers](https://my.secondlife.com/sltravelers) or a Moderator in-world and we’ll help you sort it out.
