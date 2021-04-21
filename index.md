@@ -95,15 +95,17 @@ Any attempt to disrupt Group interaction with Travelers will result in the airli
 
 Your motto and ideas about tips and turning off AO’s are up to you at your location.
 
+<br><br>
 
 ### Announcement Format:
 
-Travel Provider Name: Event Number.
-Itinerary: Departure - Destination(s).
-Departure Time: SLT.
+Travel Provider Name:
+Itinerary: Departure - Destination(s)
+Departure Time:
 Synthesized Event Description: Activities. Vehicle model. Passenger capacity. ETA (Estimated Time of Arrival).
-SLURL.
+SLURL:
 
+<br>
 
 ### Examples:
 
@@ -113,6 +115,7 @@ Departure Time: 4:45 PM SLT.
 One-way flight. Aircraft: Boeing 727. Passengers: 6. ETA: 15 min.
 http://maps.secondlife.com/secondlife/Orientation%20Island%20Public/98/169/33.
 
+<br>
 
 ### OR
 
