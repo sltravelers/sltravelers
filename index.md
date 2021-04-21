@@ -6,7 +6,7 @@ This Group has simple, but strict regulations and is moderated by people from ev
 NOTE: THIS IS A GROUP FOR TRAVEL ANNOUNCEMENTS ONLY - CHAT IS DISABLED.
 
 
-<br><br><br>
+<br><br>
 
 ## Travel Service Announcement Generator
 
@@ -112,14 +112,14 @@ http://maps.secondlife.com/secondlife/Orientation%20Island%20Public/98/169/33.
 
 
 
-<br><br><br>
+<br><br>
 
 ## Join Second Life Travelers
 
 [Click here to join our Group in Second Life](https://world.secondlife.com/group/ec1d65c1-5f99-f209-f114-32b86b42e391).
 
 
-<br><br><br>
+<br><br>
 
 ## Support or Contact
 
