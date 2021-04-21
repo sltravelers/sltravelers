@@ -55,7 +55,7 @@ Departure Time: <span id="display_time"></span> (SLT) <br>
 Boarding SLURL: <span id="display_slurl"></span> <br><br>
 This is a free charter travel service, but tips are appreciated. Passengers are requested to remove AOs, HUDs, and other scripted attachments to reduce lag.
 </div>
->
+
 
 
 <br><br><br>
