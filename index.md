@@ -1,3 +1,13 @@
+## About Second Life Travelers Group
+Several established Second Life airlines have joined to create a group called Second Life Travelers. It’s goal is to share travel opportunities with people in Second Life.
+
+This Group has simple, but strict regulations and is moderated by people from every founder airline to support a fair interaction between members.
+
+NOTE: THIS IS A GROUP FOR TRAVEL ANNOUNCEMENTS ONLY - CHAT IS DISABLED.
+
+
+<br><br><br>
+
 ## Travel Service Announcement Generator
 
 
@@ -55,27 +65,12 @@ This is a free charter travel service, but tips are appreciated. Passengers are 
 
 <br><br><br>
 
-## About Second Life Travelers Group
-Several established Second Life airlines have joined to create a group called Second Life Travelers. It’s goal is to share travel opportunities with people in Second Life.
 
-This Group has simple, but strict regulations and is moderated by people from every founder airline to support a fair interaction between members.
-
-NOTE: THIS IS A GROUP FOR TRAVEL ANNOUNCEMENTS ONLY - CHAT IS DISABLED.
-
-
-<br><br><br>
-
-## Group Regulations
-
-_Last Updated on April 2021._
+## Group Regulations _Last Updated on April 2021._
 
 1. A “Travel Provider” tag to announce events in Group Chat is required and delivered upon request and moderators approval.
 
-Requirements to get a tag are:
-
-a). SL Account must be at least 6 months old.
-
-b). If part of an Organization, applicants must be referred by the owner(s) of the Organization to certify they have completed training and have been active for at least one month.
+Requirements to get a tag are: a). SL Account must be at least 6 months old. b). If part of an Organization, applicants must be referred by the owner(s) of the Organization to certify they have completed training and have been active for at least one month.
 
 2. Chit-chat is closed. Group chat is open exclusively to announce events.
 
