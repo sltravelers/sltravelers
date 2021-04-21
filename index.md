@@ -48,14 +48,14 @@ NOTE: THIS IS A GROUP FOR TRAVEL ANNOUNCEMENTS ONLY - CHAT IS DISABLED.
 <p style="text-align: left;"> <strong>Click "Submit" to generate an announcement, and copy/paste the following text to SL Travelers Group IM:</strong></p>
 
 
-<div class="author-box">
+><div class="author-box">
 <span id="display_provider"></span> <br><span id="display_service"></span> <br>
 Itinerary: <span id="display_itinerary"></span> <br>
 Departure Time: <span id="display_time"></span> (SLT) <br>
 Boarding SLURL: <span id="display_slurl"></span> <br><br>
 This is a free charter travel service, but tips are appreciated. Passengers are requested to remove AOs, HUDs, and other scripted attachments to reduce lag.
 </div>
-
+>
 
 
 <br><br><br>
